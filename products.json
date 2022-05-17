@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Hamburger",
+        "price": 10,
+        "clas":"Fastfood",
+        "image": { "fields": { "file": { "url": "https://curriculumvisions.com/search/H/hamburger/hamburger-shutterstock_44204737.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Apple",
+        "price": 3,
+        "clas":"Fruits",
+        "image": { "fields": { "file": { "url": "https://images-na.ssl-images-amazon.com/images/I/31WUb7I%2BSvL.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Meat",
+        "price": 14,
+        "clas":"Fresh_Meat",
+        "image": { "fields": { "file": { "url": "https://cdn.website.thryv.com/e51b78a0e21241d4b81ad95b09b9a888/dms3rep/multi/935316446.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Mango",
+        "price": 5,
+        "clas":"Fruits",
+        "image": { "fields": { "file": { "url": "https://befreshcorp.net/wp-content/uploads/2017/07/product-packshot-mango.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Fish",
+        "price": 21,
+        "clas":"Fresh_Meat",
+        "image": { "fields": { "file": { "url": "https://www.parsgraphic.ir/assets/source/images/photo/12/1541.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Banan",
+        "price": 4,
+        "clas":"Fruits",
+        "image": { "fields": { "file": { "url": "https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Tomato",
+        "price": 5,
+        "clas":"Vegetables",
+        "image": { "fields": { "file": { "url": "https://cdn.shopify.com/s/files/1/1698/1675/products/Tomato_Thessaloniki.jpg?v=1537070112" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Coconut",
+        "price": 6,
+        "clas":"Fruits",
+        "image": { "fields": { "file": { "url": "https://static3.depositphotos.com/1000141/103/i/950/depositphotos_1034662-stock-photo-sweet-cocos.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Ananas",
+        "price": 8,
+        "clas":"Fruits",
+        "image": { "fields": { "file": { "url": "https://static.ah.nl/image-optimization/static/product/AHI_434d50323334323838_1_LowRes_JPG.JPG?options=399,q85" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Turkey",
+        "price": 4.5,
+        "clas":"Fresh_Meat",
+        "image": { "fields": { "file": { "url": "https://5.imimg.com/data5/GY/XN/MY-44080452/turkey-meat-500x500.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Pizza",
+        "price": 15,
+        "clas":"Fastfood",
+        "image": { "fields": { "file": { "url": "https://mpng.subpng.com/20180904/fr/kisspng-pizza-margherita-italian-cuisine-portable-network-shitpostbot-5-5b8e106fe4a7b8.8332728415360369759366.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Red pepper",
+        "price": 4,
+        "clas":"Vegetables",
+        "image": { "fields": { "file": { "url": "https://target.scene7.com/is/image/Target/GUEST_7c2f5da1-86b0-41c7-83a5-a21359f82e6e?wid=488&hei=488&fmt=pjpeg" } } }
+      }
+    }
+  ]
+}
